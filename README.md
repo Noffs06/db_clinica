@@ -1,4 +1,4 @@
-# EXERCICIO REALIZADO:
+# EXERCÍCIO REALIZADO:
 
 Você foi contratado para desenvolver um sistema de gerenciamento de uma pequena
 biblioteca. Para isso, é necessário criar um banco de dados que armazene informações
