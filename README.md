@@ -4,7 +4,11 @@ Você foi contratado para desenvolver um sistema de gerenciamento de uma pequena
 biblioteca. Para isso, é necessário criar um banco de dados que armazene informações
 sobre os livros, autores, membros da biblioteca e os empréstimos realizados. O nome do
 banco de dados será BibliotecaDB. Em seguida, insira ao menos 3 valores nas tabelas.
+
+
 EXERCICIO 1. Criação do Banco de Dados
+
+
 EXERCICIO 2. Criação das Tabelas
 Requisitos do Banco de Dados:
 1. Tabela: Autores
